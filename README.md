@@ -1,6 +1,6 @@
 # Job App Tracker w/ Backend
 
-![Application Preview](preview.png)
+
 
 Simple full stack application to help you keep track of your job applications, while you're job hunting. Stores data into MongoDb as you enter, delete or update your applications. 
 
